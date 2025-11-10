@@ -1,0 +1,25 @@
+/* RESET BÁSICO */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI sans-serif';
+}
+
+/* CONTAINER */
+.container {
+    background-color: rgb(226, 147, 50);
+    max-width: 840px;
+    width: 90%;
+    padding: 0 20px;
+}
+
+/* Centralizar containers*/
+.centraliza {
+    display: flex;
+    justify-content: center;
+}
+
