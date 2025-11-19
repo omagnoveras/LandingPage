@@ -11,9 +11,10 @@ body {
 
 /* CONTAINER */
 .container {
-    background-color: rgb(226, 147, 50);
-    max-width: 840px;
-    width: 90%;
+    background-color: #21409A;
+    width: 1080px;
+    height: 110px;
+    background-size: cover;
     padding: 0 20px;
 }
 
